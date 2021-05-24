@@ -1,4 +1,4 @@
-requests
+Selenium
 beautifulsoup4
 matplotlib
 numpy
